@@ -19,3 +19,5 @@ Implement function to calculate square of an equilateral figurine following rule
    * circle(0 sides) (count sideLen as radius)
    * if any other `sideNum` param is passed, return 0
 * built-in Pi constant must be used to bypass the test
+
+
